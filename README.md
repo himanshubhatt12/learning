@@ -1,3 +1,4 @@
 # learning
-Just for learning github
-Using git and github
+Just for learning github.
+<br>
+Using git and github.
